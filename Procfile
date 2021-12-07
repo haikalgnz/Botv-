@@ -1,1 +1,1 @@
-worker : node . --server
+worker : npm i tsc && node . --server
