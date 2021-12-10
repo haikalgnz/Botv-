@@ -1,1 +1,1 @@
-worker : npm i tsc && node . --server
+worker : npm i @adiwajshing/baileys@latest && node . --server
