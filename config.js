@@ -14,7 +14,7 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.linkGC = ['-'] // ganti jadi group lu
-global.owner = ['6289696454872', '6289696454872', '‪15183004037‬'] // Put your number here
+global.owner = ['6289696454872', '15183004037'] // Put your number here
 global.mods = ['6289696454872', '15183004037'] // Want some help?
 global.prems = ['6289696454872','15183004037','15183004037','6289696454872','15183004037','6289696454872','15183004037'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
